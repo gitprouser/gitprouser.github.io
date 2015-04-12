@@ -22,7 +22,7 @@ The way to resolve this is create a new directory in `$JAVA_HOME/Classes` and li
 
 Link Tools.jar to Classes.jar
 
-{% highlight java linenos %}
+{% highlight java %}
 sudo mkdir $JAVA_HOME/Classes
 sudo ln -sf $JAVA_HOME/lib/tools.jar $JAVA_HOME/Classes/classes.jar
 {% endhighlight %}
