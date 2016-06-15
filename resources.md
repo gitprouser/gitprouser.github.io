@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resources
+title: Book's I am reading
 ---
 
 Below are some resources that I found extremely helpful in learning and maximizing Jekyll as a blogging platform. I highly recommend bookmarking these resources and using them frequently as you learn Jekyll.
